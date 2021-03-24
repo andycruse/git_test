@@ -1,3 +1,2 @@
-# git_test
-
-#This is a further test
+This is andycruse's first git project!
+S
